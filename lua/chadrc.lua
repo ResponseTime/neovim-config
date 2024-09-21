@@ -5,12 +5,12 @@
 local M = {}
 
 M.ui = {
-  theme = "ayu_dark",
+  theme = "yoru",
   nvdash = {
     load_on_startup = true,
   },
   lsp_semantic_tokens = true,
-  transparency = true,
+  transparency = false,
   -- hl_override = {
   -- 	Comment = { italic = true },
   -- 	["@comment"] = { italic = true },
